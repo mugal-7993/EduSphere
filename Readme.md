@@ -81,14 +81,11 @@ EduSphere combines structured curriculum, live sessions, built-in development to
 ### V. Full-Stack Development
 - Node.js
 - Express.js
-- REST APIs
-- Databases
+
 
 ### VI. Tools & Deployment
 - Git & version control
-- Webpack
-- Docker
-- CI/CD pipelines
+- Vercel
 
 ---
 
