@@ -6,7 +6,7 @@
 
 ## 🌐 Overview
 
-EduSphere combines structured curriculum, live sessions, built-in development tools, and collaboration features into a single seamless platform.
+EduSphere combines structured curriculum, live sessions, built-in development tools, and collaboration features into a single seamless platform.Features Semester-wise study materials AI-powered assistance Career path exploration Clean and responsive UI EduSphere Pro is a modern educational web platform designed to help students access structured study materials, explore career paths, and enhance their learning experience using AI-powered tools.
 
 > "Where learning comes alive."
 
@@ -94,6 +94,12 @@ EduSphere combines structured curriculum, live sessions, built-in development to
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
+  
+Deployment: Netlify
+
+The goal of EduSphere Pro is to:
+
+Make learning easy and accessible Provide all-in-one educational support Help students prepare for future careers Future Improvements User login & authentication Quiz & test system Progress tracking dashboard More AI-based features Contributing Contributions, suggestions, and feedback are welcome! Feel free to fork the repo and improve it. If you like this project, don’t forget to ⭐ the repository!
 
 ---
 contact - rkrevanth2456@gmail.com 
