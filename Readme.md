@@ -104,3 +104,35 @@ Make learning easy and accessible Provide all-in-one educational support Help st
 ---
 contact - rkrevanth2456@gmail.com 
 
+## 📁 Project Structure
+
+EduSphere/
+│
+├── 📁 public/                
+│   ├── index.html
+│   ├── classroom.html
+│   ├── collaborate.html
+│   ├── curriculum.html
+│   ├── enroll.html
+│   ├── quiz.html
+│   ├── resources.html
+│   ├── tools.html
+│   │
+│   ├── 📁 css/
+│   │   ├── styles.css
+│   │   └── home.css
+│   │
+│   ├── 📁 js/
+│   │   ├── nav.js
+│   │   └── shared.js
+│
+├── 📁 server/                
+│   └── server.js
+│
+├── 📁 node_modules/         
+│
+├── package.json
+├── package-lock.json
+│
+├── .gitignore
+└── README.md
