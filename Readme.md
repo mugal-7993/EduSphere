@@ -97,7 +97,7 @@ EduSphere combines structured curriculum, live sessions, built-in development to
   
 Deployment: Netlify
 
-The goal of EduSphere Pro is to:
+The goal of EduSphere is to:
 
 Make learning easy and accessible Provide all-in-one educational support Help students prepare for future careers Future Improvements User login & authentication Quiz & test system Progress tracking dashboard More AI-based features Contributing Contributions, suggestions, and feedback are welcome! Feel free to fork the repo and improve it. If you like this project, don’t forget to ⭐ the repository!
 
